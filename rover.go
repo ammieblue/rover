@@ -9,7 +9,7 @@ type Field struct {
 	role string
 }
 
-type Field2 struct {
+type Field222 struct {
 	ip string
 	role string
 }
