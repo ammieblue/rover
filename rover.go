@@ -13,7 +13,7 @@ type Field222222232 struct {
 	ip string
 	role string
 }
-type Field333777898987 struct {
+type Field3337778989874444444ammie struct {
 	ip string
 	role string
 }
