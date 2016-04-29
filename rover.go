@@ -1,4 +1,4 @@
-package main
+package rover
 
 import(
 	"fmt"
@@ -9,6 +9,14 @@ type Field struct {
 	role string
 }
 
+type Field2 struct {
+	ip string
+	role string
+}
+type Field3 struct {
+	ip string
+	role string
+}
 
 func main(){
 	fmt.Println("Hello World");
